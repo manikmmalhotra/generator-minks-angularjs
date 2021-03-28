@@ -1,0 +1,1 @@
+# generator-minks-angularjs
